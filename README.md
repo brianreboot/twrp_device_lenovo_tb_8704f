@@ -1,15 +1,15 @@
 TeamWin Recovery Project
 
-Device configuration for Lenovo Tab 4 8 Plus (TB-8704X)
+Device configuration for Lenovo Tab 4 8 Plus (TB-8704F)
 =====================================
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CHIPSET | Qualcomm MSM8953 Snapdragon 625
+CHIPSET | Qualcomm Snapdragon 625 (APQ8053)
 CPU     | Octa-core 2.0 GHz Cortex-A53
 GPU     | Adreno 506
-Memory  | 4 GB
-Shipped Android Version | Android 6.0.1 
+Memory  | 3 GB
+Shipped Android Version | Android 7.1.1 Nougat OS 
 Storage | 64 GB
 Battery | 4850 mAh (non-removable)
 Dimensions | 210 x 123 x 7 mm
