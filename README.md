@@ -8,7 +8,7 @@ Basic   | Spec Sheet
 CHIPSET | Qualcomm Snapdragon 625 (APQ8053)
 CPU     | Octa-core 2.0 GHz Cortex-A53
 GPU     | Adreno 506
-Memory  | 3 GB
+Memory  | 4 GB
 Shipped Android Version | Android 7.1.1 Nougat OS 
 Storage | 64 GB
 Battery | 4850 mAh (non-removable)
