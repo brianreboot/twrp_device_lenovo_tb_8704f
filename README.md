@@ -1,1 +1,0 @@
-# twrp_device_lenovo_tb_8704f
